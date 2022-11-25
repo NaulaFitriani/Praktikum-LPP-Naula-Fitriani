@@ -1,0 +1,10 @@
+>>> kalimat_starter = "Beberapa tahun yang lalu"
+>>> karakter = "Naula dan teman-teman sedang pulang jalan pulang sekolah"
+>>> waktu = "mereka pulang sekolah sekitar pukul 12 siang"
+>>> story_plot = "semua berjalan seperti biasa, normal seperti hari-hari sebelumnya"
+>>> tempat = "Saat melewati sebuah jalan yang cukup sepi"
+>>> second_character = "Mereka melihat seekor anjing yang kebingungan"
+>>> usia = "Usia anjing itu sekitar 2 tahun, waktu yang cukup tua untuk seekor anjing"
+>>> pekerjaan = "Mereka kasihan melihat anjing itu, hingga akhirnya mereka membeli makanan untuk anjing tersebut dan memberikannya"
+>>> f"{kalimat_starter} {karakter} {waktu} {story_plot} {tempat} {second_character} {usia} {pekerjaan}"
+'Beberapa tahun yang lalu Naula dan teman-teman sedang pulang jalan pulang sekolah mereka pulang sekolah sekitar pukul 12 siang semua berjalan seperti biasa, normal seperti hari-hari sebelumnya Saat melewati sebuah jalan yang cukup sepi Mereka melihat seekor anjing yang kebingungan Usia anjing itu sekitar 2 tahun, waktu yang cukup tua untuk seekor anjing Mereka kasihan melihat anjing itu, hingga akhirnya mereka membeli makanan untuk anjing tersebut dan memberikannya'
